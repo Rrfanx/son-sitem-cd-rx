@@ -1,0 +1,7 @@
+{
+  "mongoURL": "mongodb+srv://CDmodbot:CDmodbot@cluster0.iqkedlv.mongodb.net/?retryWrites=true&w=majority",
+  "clientID": "1018588655809482832",
+  "token": "MTAxODU4ODY1NTgwOTQ4MjgzMg.GB5SzV.UafyfQMN4vG12cyd1Vajy6hQ9z--pzl4bcs25A",
+  "secret": "3QQiURUy8JrRed9v1e6XhkjXQVBio-yQ",
+  "callbackURL": "https://rx-cd.ml/callback"
+}
